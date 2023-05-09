@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  font-family: poppins, sans-serif;
+}
+
+h1{
+  color: deeppink;
+}
+
+#counter{
+  font-size: 2rem;
+}
+
+.btn,#Reset{
+  padding: 10px 15px;
+  font-size: 1.5rem;
+  background-color:blue;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;margin-top:20px;
+}
+
+
+.btn:hover {
+background-color: rgb(7, 7, 109);
+}
+
+#Reset{
+background-color:crimson;
+}
+
+#Reset:hover{
+  background-color:rgb(56, 11, 11);
+}
